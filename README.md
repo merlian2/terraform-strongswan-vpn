@@ -40,3 +40,5 @@ So you'll be using:
 1. Copy the file ansible/local-vpn-endpoint.yml.dist to ansible/local-vpn-endpoint.yml
 2. Edit the file and put valid VPN configuration inside
 3. Run the command `task install-local-vpn`
+
+# End
